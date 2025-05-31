@@ -1,6 +1,4 @@
-Claro! Aqui está um README pronto para você colocar no GitHub, com estrutura prática, clara e objetiva para apresentar seu projeto:
 
-```markdown
 # Análise de Relatórios de Vendas com IA
 
 ## Sobre o Projeto  
@@ -69,5 +67,3 @@ Este repositório contém:
 Obrigado pela visita!  
 Fique à vontade para explorar o projeto e entrar em contato caso tenha dúvidas.
 ```
-
-Quer que eu te ajude a criar algum arquivo extra, tipo um guia rápido para rodar os prompts?
