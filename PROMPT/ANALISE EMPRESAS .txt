@@ -1,0 +1,67 @@
+
+
+## 📊 **1. Faturamento por Produto**
+
+| Produto                | Quantidade Vendida | Faturamento Total (€/\$/£) |
+| ---------------------- | ------------------ | -------------------------- |
+| NEW MEGANIUM RG 40XXV  | 41                 | 4100                       |
+| NEW MEGANIUM RG35XX    | 36                 | 3240                       |
+| MEGANIUM RG353M        | 29                 | 3190                       |
+| NEW MEGANIUM RG CubeXX | 36                 | 2880                       |
+| NEW MEGANIUM RG28XX    | 36                 | 2520                       |
+
+📌 **Conclusão**: O produto **RG 40XXV** lidera as vendas, sendo o carro-chefe da linha Meganium.
+
+---
+
+## 🌍 **2. Faturamento por País de Entrega**
+
+| País        | Quantidade Vendida | Faturamento Total |
+| ----------- | ------------------ | ----------------- |
+| Canadá      | 46                 | 4090              |
+| França      | 36                 | 3210              |
+| Japão       | 27                 | 2510              |
+| Austrália   | 28                 | 2330              |
+| Alemanha    | 23                 | 2010              |
+| Reino Unido | 13                 | 1260              |
+| EUA         | 5                  | 520               |
+
+📌 **Conclusão**: A **Canadá** é o principal mercado da Meganium, seguido por França e Japão. É possível focar campanhas de marketing nessas regiões.
+
+---
+
+## 📆 **3. Vendas Mensais**
+
+| Ano  | Mês | Quantidade Vendida | Faturamento Total |
+| ---- | --- | ------------------ | ----------------- |
+| 2024 | 05  | 11                 | 1040              |
+| 2024 | 06  | 20                 | 1770              |
+| 2024 | 07  | 25                 | 2300              |
+| 2024 | 08  | 47                 | 4310              |
+| 2024 | 09  | 37                 | 3430              |
+
+📌 **Conclusão**: **Agosto** foi o mês de maior faturamento. Pode haver ligação com férias ou campanhas sazonais.
+
+---
+
+## 🎟️ **4. Descontos Médios por Produto**
+
+| Produto                | Desconto Médio |
+| ---------------------- | -------------- |
+| MEGANIUM RG353M        | €55.22         |
+| NEW MEGANIUM RG35XX    | €53.08         |
+| NEW MEGANIUM RG 40XXV  | €48.08         |
+| NEW MEGANIUM RG CubeXX | €39.55         |
+| NEW MEGANIUM RG28XX    | €34.49         |
+
+📌 **Conclusão**: O produto **RG353M** teve os maiores descontos em média. Isso pode estar relacionado a uma estratégia de giro de estoque ou baixa demanda.
+
+---
+
+### 📌 **Principais Insights de Negócio**
+
+* O **produto campeão de vendas** é o **RG 40XXV**, indicando alta aceitação.
+* A **Canadá lidera em volume e receita**, sendo estratégico priorizar esse mercado.
+* **Descontos agressivos** podem estar impulsionando vendas de alguns modelos.
+* O **mês de agosto** concentra o pico de vendas — oportunidade para futuras campanhas promocionais.
+
